@@ -4,9 +4,9 @@
   <subtitle>做自己爱做的事，爱自己在做的事！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://lining888.cn/"/>
   <updated>2017-06-06T12:10:06.126Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://lining888.cn/</id>
   
   <author>
     <name>李宁</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>感叹一下这段时间的经历</title>
-    <link href="http://yoursite.com/2017/06/05/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/06/05/第三篇文章/</id>
+    <link href="http://lining888.cn/2017/06/05/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://lining888.cn/2017/06/05/第三篇文章/</id>
     <published>2017-06-05T11:07:53.000Z</published>
     <updated>2017-06-06T12:10:06.126Z</updated>
     
@@ -79,14 +79,14 @@
     </summary>
     
     
-      <category term="悲喜交集" scheme="http://yoursite.com/tags/%E6%82%B2%E5%96%9C%E4%BA%A4%E9%9B%86/"/>
+      <category term="悲喜交集" scheme="http://lining888.cn/tags/%E6%82%B2%E5%96%9C%E4%BA%A4%E9%9B%86/"/>
     
   </entry>
   
   <entry>
     <title>随便搞点啥</title>
-    <link href="http://yoursite.com/2017/06/05/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/06/05/第二篇文章/</id>
+    <link href="http://lining888.cn/2017/06/05/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://lining888.cn/2017/06/05/第二篇文章/</id>
     <published>2017-06-05T09:04:13.000Z</published>
     <updated>2017-06-05T11:34:28.774Z</updated>
     
@@ -104,14 +104,14 @@
     </summary>
     
     
-      <category term="疯狂，贪玩" scheme="http://yoursite.com/tags/%E7%96%AF%E7%8B%82%EF%BC%8C%E8%B4%AA%E7%8E%A9/"/>
+      <category term="疯狂，贪玩" scheme="http://lining888.cn/tags/%E7%96%AF%E7%8B%82%EF%BC%8C%E8%B4%AA%E7%8E%A9/"/>
     
   </entry>
   
   <entry>
     <title>折 腾 吧 !</title>
-    <link href="http://yoursite.com/2017/06/05/hello-world/"/>
-    <id>http://yoursite.com/2017/06/05/hello-world/</id>
+    <link href="http://lining888.cn/2017/06/05/hello-world/"/>
+    <id>http://lining888.cn/2017/06/05/hello-world/</id>
     <published>2017-06-05T03:47:15.000Z</published>
     <updated>2017-06-06T11:58:06.171Z</updated>
     
@@ -141,14 +141,14 @@
     </summary>
     
     
-      <category term="小插曲" scheme="http://yoursite.com/tags/%E5%B0%8F%E6%8F%92%E6%9B%B2/"/>
+      <category term="小插曲" scheme="http://lining888.cn/tags/%E5%B0%8F%E6%8F%92%E6%9B%B2/"/>
     
   </entry>
   
   <entry>
     <title>感悟</title>
-    <link href="http://yoursite.com/2017/06/05/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/06/05/第一篇文章/</id>
+    <link href="http://lining888.cn/2017/06/05/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://lining888.cn/2017/06/05/第一篇文章/</id>
     <published>2017-06-05T03:47:15.000Z</published>
     <updated>2017-06-06T11:44:12.022Z</updated>
     
@@ -164,7 +164,7 @@
     </summary>
     
     
-      <category term="个性，成熟，稳重" scheme="http://yoursite.com/tags/%E4%B8%AA%E6%80%A7%EF%BC%8C%E6%88%90%E7%86%9F%EF%BC%8C%E7%A8%B3%E9%87%8D/"/>
+      <category term="个性，成熟，稳重" scheme="http://lining888.cn/tags/%E4%B8%AA%E6%80%A7%EF%BC%8C%E6%88%90%E7%86%9F%EF%BC%8C%E7%A8%B3%E9%87%8D/"/>
     
   </entry>
   
